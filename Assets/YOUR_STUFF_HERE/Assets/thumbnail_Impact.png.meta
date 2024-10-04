@@ -267,7 +267,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      thumbnail_Impact_0: -7779642827869109543
+      thumbnail_Impact_1: -2355186547515934285
+      thumbnail_Impact_2: 487866443099194869
+      thumbnail_Impact_3: -7827174322662940033
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

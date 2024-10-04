@@ -243,7 +243,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hoop_Bottom_ZIGZAG_0: -1002016001649384156
+      Hoop_Bottom_ZIGZAG_1: 6568272510520033707
+      Hoop_Bottom_ZIGZAG_2: 3332700047270508145
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

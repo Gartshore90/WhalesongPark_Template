@@ -291,7 +291,12 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bottom_HOOP_STRIPE_0: 1785815855697369268
+      Bottom_HOOP_STRIPE_1: -3528852969627792185
+      Bottom_HOOP_STRIPE_2: -2062919794138599538
+      Bottom_HOOP_STRIPE_3: 7957282180110257216
+      Bottom_HOOP_STRIPE_4: 2212088428199787385
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

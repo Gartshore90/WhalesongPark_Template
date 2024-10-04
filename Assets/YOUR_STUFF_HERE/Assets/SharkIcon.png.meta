@@ -267,7 +267,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SharkIcon_0: 6403117479668722627
+      SharkIcon_1: 6586735016560046438
+      SharkIcon_2: 108199128103464519
+      SharkIcon_3: 8997746298641654875
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

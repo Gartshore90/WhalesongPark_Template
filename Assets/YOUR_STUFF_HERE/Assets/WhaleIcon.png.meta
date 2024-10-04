@@ -243,7 +243,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WhaleIcon_0: -2091964053063168364
+      WhaleIcon_1: -3198957988701461158
+      WhaleIcon_2: 2727700799531571747
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

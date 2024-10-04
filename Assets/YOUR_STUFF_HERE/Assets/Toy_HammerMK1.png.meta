@@ -195,7 +195,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Toy_HammerMK1_0: -6791151063184204977
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
