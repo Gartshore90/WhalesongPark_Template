@@ -1,15 +1,17 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
-public class Movement : MonoBehaviour
+public class MovementPath : MonoBehaviour
 {
     public float forceStrength;
     public Vector2 patrolPoint;
     private Vector2 patrol;
     private Rigidbody2D ourRigidbody;
+
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
         ourRigidbody = GetComponent<Rigidbody2D>();
     }
@@ -22,3 +24,4 @@ public class Movement : MonoBehaviour
         ourRigidbody.AddForce(direction * forceStrength);
     }
 }
+ 
