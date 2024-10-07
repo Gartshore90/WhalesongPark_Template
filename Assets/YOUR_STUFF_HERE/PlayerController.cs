@@ -30,6 +30,8 @@ public class PlayerController : MonoBehaviour
         // Up
         else if (direction.y > 0)
         {
+            transform.position = new Vector2(0, 0.08f);
+
             print("Up");
         }
         // Down
